@@ -1,0 +1,20 @@
+{
+  "background_color": "#f4f7fa",
+  "description": "Chatneil — aplikasi pesan dari ekosistem Neilverse.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Chatneil",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Chatneil",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "com.neilhutabarat.chatneil",
+  "lang": "id",
+  "categories": [
+    "dating",
+    "productivity",
+    "social",
+    "social networking"
+  ]
+}
