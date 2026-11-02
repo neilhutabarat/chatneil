@@ -7,7 +7,7 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "Chatneil",
-  "start_url": "/",
+  "start_url": "./index.html"
   "theme_color": "#ffffff",
   "id": "com.neilhutabarat.chatneil",
   "lang": "id",
